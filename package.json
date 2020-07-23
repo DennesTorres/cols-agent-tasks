@@ -1,5 +1,5 @@
 {
-  "name": "colinsalmcorner-buildtasks",
+  "name": "dennestorres-devopstasks",
   "version": "0.1.1",
   "description": "Custom build tasks for TFS or VSO",
   "scripts": {
@@ -20,14 +20,9 @@
     "url": "https://github.com/colindembovsky/cols-agent-tasks"
   },
   "keywords": [
-    "build",
-    "tasks",
-    "tokens",
-    "replace",
-    "dacpac",
-    "traffic"
+    "dacpac"
   ],
-  "author": "Colin Dembovsky (ColinsALMCorner.com)",
+  "author": "Dennes Torres (http://dennestorres.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/colindembovsky/cols-agent-tasks/issues"
